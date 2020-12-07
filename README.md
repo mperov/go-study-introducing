@@ -9,7 +9,7 @@ I'd like to learn golang so **go-study-introducing** will be the first my projec
 
 ### running
 ```console
-  ./hello
+  ./hello $USER
 ```
 
 ### running without building
