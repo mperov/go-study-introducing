@@ -5,7 +5,7 @@ import (
     "fmt"
     "log"
 
-    "example.com/greetings"
+    "greetings"
 )
 
 func Usage() {
