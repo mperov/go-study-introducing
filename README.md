@@ -4,7 +4,7 @@ I'd like to learn golang so **go-study-introducing** will be the first my projec
 
 ### building
 ```console
-  go build
+  make
 ```
 
 ### running
